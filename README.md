@@ -1,2 +1,6 @@
 # xyztools
-Python scripts to analyse XYZ (XMOL) files
+Python scripts to analyse XYZ (XMOL) files.
+
+Descriptions how to use scripts are in comment section in each script.
+
+All the scripts use classes from tools.py to read in and do basic tasks to XYZ-files.
